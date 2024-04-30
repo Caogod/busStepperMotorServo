@@ -1,0 +1,20 @@
+{
+    "SYSTEM_CONFIG":{
+        "AUTO_RESPONSE":0,
+        "AUTO_SSD":1
+    },
+    "HOME_CONFIG": {
+            "home_speed": 20,
+            "home_trigger": 0,
+            "home_direction": 0,
+            "end_limit":0
+    },
+    "MOTION_CONFIG": {
+        "CW_REVERSE":1,
+        "MAX_SPEED": 3000,
+        "MAX_ACCERATE_TIME":12,
+        "TOTAL_PULSE": 32000,
+        "TOTAL_RANGE": 400,
+        "EN_BLOCK_PROTECT":1
+    }
+}
